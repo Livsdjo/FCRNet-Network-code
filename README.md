@@ -50,6 +50,6 @@ Generate SUN3D training data if you need by following the same procedure and unc
 
 ## Training
 ```shell script
-cd LNCNet-Network-code/core
+cd core
 python main.py
 ```
